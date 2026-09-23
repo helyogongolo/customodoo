@@ -1,0 +1,4 @@
+[submodule "fesco-addons"]
+	path = fesco-addons
+	url = git@github.com:InnovActiveMZ/fesco-addons.git
+	branch = main
